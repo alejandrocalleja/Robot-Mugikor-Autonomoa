@@ -104,3 +104,6 @@ apt-cache search libsdl2
 ```bash
 apt-get install libsdl2-dev
 ```
+
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
