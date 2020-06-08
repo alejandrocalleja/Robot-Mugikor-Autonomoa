@@ -1,6 +1,7 @@
 # Robot Mugikor Autonomoa
 
 Robot Mugikor Autonomoaren simulazio bat da, C lenguaian programatuta. Windows edo Linux-en sistema eragiletan erabili ahal da.
+Robot hau Jorge Álvarez de Arcaya, Alejandro Calleja, Aritz Domaika eta Xabier Lamarain (Ingeniaritza Informatiko 1. mailako ikasleak) diseinatu dute.
 
 ## Erabiltzen hasi
 
